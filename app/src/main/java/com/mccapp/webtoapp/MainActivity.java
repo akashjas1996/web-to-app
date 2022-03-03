@@ -1,4 +1,4 @@
-package com.myexampoint.webtoapp;
+package com.mccapp.webtoapp;
 
 
 import android.content.DialogInterface;
@@ -13,6 +13,8 @@ import android.webkit.WebViewClient;
 import android.graphics.Bitmap;
 import android.view.View;
 import android.widget.ProgressBar;
+
+import com.mccapp.webtoapp.R;
 
 public class MainActivity extends AppCompatActivity {
 
